@@ -1,0 +1,6 @@
+_PATH_HOST_SM2_KEY_FILE 这个路径需要手动添加
+具体的路径是：/etc/ssh/ssh_host_sm2_key
+
+
+计划完成：
+1、添加宏定义：IF_SM_APPLIED 作为sm系列函数导入的整体宏定义
